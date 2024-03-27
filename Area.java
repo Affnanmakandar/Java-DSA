@@ -1,3 +1,4 @@
+//  Note this is a practice question that i had solved
 import java.util.*;
 class JavaBasics{
     public static void main(String args[]){
