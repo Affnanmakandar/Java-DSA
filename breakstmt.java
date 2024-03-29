@@ -8,5 +8,6 @@ class JavaBasics{
             System.out.println(i);
         }
         System.out.println("I am out of the box"); //break stmt in java
+        // The output will be 1 and 2 after that it will break the statement automatically
     }
 }
